@@ -1,0 +1,8 @@
+pandas as pd
+numpy as np
+matplotlib.pyplot
+matplotlib
+seaborn
+statistics 
+scipy.stats
+statsmodels.api
